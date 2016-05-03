@@ -1,0 +1,1 @@
+obj = """{"name": "Wes", "place_lived": ["United States", "Spain", "Germany"],"pet": null,"siblings": [{"name": "Scott", "age": 25, "pet": "Zuko"}, {"name": "Wei", "age": 25, "pet": "Cisco"}]}"""
